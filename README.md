@@ -42,6 +42,7 @@ This project is a content-based movie recommender system. Content-based recommen
 - Pandas
 - Scikit-learn
 - Numpy
+- streamlit
 
 You can install the required dependencies using:
 
@@ -69,7 +70,7 @@ To get started with the project, follow these steps:
    ```
 
 ## Usage
-1. Run the `recommender.py` script.
+1. Run the `app.py` by 'run streamlit 'script.
 2. Enter a movie title when prompted.
 3. The system will output a list of recommended movies based on the similarity to the entered movie.
 
